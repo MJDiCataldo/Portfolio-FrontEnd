@@ -1,0 +1,47 @@
+.container-bg{
+    background-color: black;
+}
+
+.button-pos{
+    float: right;
+}
+
+.button-space{
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+
+
+.clipped {
+    clip-path: circle();
+ }
+
+.borders-div{
+    border-bottom-style: dotted;
+    border-width: thick;
+    border-bottom-color: black;
+    margin: 3px 5px;
+    padding: 12px;
+    
+}
+
+.profilepicpos{
+    position: absolute;
+    margin-top: -86px;
+}
+
+.textfont{
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.textposition1{
+   margin-top: 56px;
+
+}
+
+.editpencilpos{
+    position:absolute;
+    margin-top: 25px;
+    margin-left: 150px;
+}
